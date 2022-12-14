@@ -1,3 +1,4 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
 # recroomstudio-proxy
 A proxy to resolve youtube links for [Rec Room Studio (Not out yet)](https://recroom.com/studio)
 
@@ -35,7 +36,6 @@ This will open a webserver on port `5030` by default, the port can be changed by
 Make a request to `https://mydomain/?url=https://youtube.com/watch?v=VIDEO_ID` to receive a redirect to a direct mp4 youtube link (either 720P or 360P) 
 
 ## License
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
